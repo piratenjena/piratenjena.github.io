@@ -1,3 +1,3 @@
-Willkommen im Repository der PIRATEN Jena
-=========================================
-Dieses Repository soll in erster Linie dem Backup der Website der Piraten Jena dienen. Den aktuellen Stand kannst Du Dir hier klonen. Wenn Du beim sichern der Website behilflich sein wollst, melde Dich bei @p1ng0utNet. Oder sie Dich um und bedien' Dich. ;-)
+Backup der Website der PIRATEN Jena
+===================================
+Dieses Repository soll dem Backup der Website der PIRATEN Jena dienen. Basiernd auf einer Wordpress Sicherung werden hier nach und nach Seiten angelegt werden. Wenn Du beim sichern der Website behilflich sein wollst, melde Dich bei @p1ng0utNet. Alle Texte stehen frei zur Verfügung und können genutzt werden.
