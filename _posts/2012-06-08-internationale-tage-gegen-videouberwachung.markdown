@@ -18,7 +18,7 @@ Die in Kürze stattfindenden Internationalen Tage gegen Videoüberwachung sind e
 [1]: http://1984actionday.wordpress.com/
 [2]: https://www.google.com/maps/d/embed?mid=1XzDSDoq1SlQatefnQMbqw2cDWL0&hl=de&gl=de&ie=UTF8&oe=UTF8&msa=0&ll=50.914213057837834%2C11.598655000000008&spn=0.074875%2C0.058816&output=embed&z=13
 [3]: https://www.google.com/maps/d/embed?mid=1nnaFmM6x084vgi-zCHwUTQY96KA&hl=de&gl=de&ie=UTF8&oe=UTF8&msa=0&ll=50.92824603157825%2C11.582578000000012&spn=0.003428%2C0.013293&output=embed&z=16
-[5]: (../attachments/Antwortbrief_ob_kameras.pdf)
+[5]: ../../../../attachments/Antwortbrief_ob_kameras.pdf
 
 [4] http://jena.piraten-thueringen.de/node/161
 
