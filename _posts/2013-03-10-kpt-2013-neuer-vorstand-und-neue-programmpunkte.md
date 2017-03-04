@@ -15,7 +15,7 @@ author:
   email: leonid@unimx.de
   display_name: Herr Schmidt
 ---
-[![Der Vorstand 2013 (von rechts nach links): Thomas Wöllecke, Frank Cebulla, Robert Manigk, Bastian Ebert, Wieland Rose]({{ site.baseurl }}/assets/vorstand-300x169.jpg)](/pictures/vorstand2013.jpg)
+[![Der Vorstand 2013 (von rechts nach links): Thomas Wöllecke, Frank Cebulla, Robert Manigk, Bastian Ebert, Wieland Rose]({{ site.baseurl }}/assets/vorstand2013-300x169.jpg)](/pictures/vorstand2013.jpg)
 
 Am vergangenen Sonnabend versammelten sich die Mitglieder der Piratenpartei Jena zum 5. Kreisparteitag seit der Gründung im August 2009. Auf der Tagesordnung standen neben der Wahl eines neuen Vorstandes auch eine ganze Reihe von inhaltlichen Themen. Unter anderem beschloss der Parteitag die neue Leitlinie "Stadtentwicklung, Umwelt und Infrastruktur" für das künftige Kommunalwahlprogramm und verabschiedete weitere Positionspapiere zu kommunalpolitischen Themen .
 
