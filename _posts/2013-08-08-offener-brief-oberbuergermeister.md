@@ -42,4 +42,4 @@ Frank Cebulla
 Politischer Geschäftsführer<br />
 Piratenpartei Deutschland - Kreisverband Jena
 
-[1]: http://www.jenapolis.de/2012/11/jena-kein-paradies-fuer-baeume-seit-jahren-nicht-fachgerechter-baumschnitt-in-jena-es-reicht/ "Link zum Beitrag auf Jenapolis"
+[1]: {{ site.baseurl }}{{% link 2012-11-20-jena-kein-paradies-fur-baume.md}}
