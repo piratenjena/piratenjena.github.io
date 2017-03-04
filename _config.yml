@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: piraten-jena
+title: piraten-jena.de (Backup)
 email: vorstand@piraten-jena.de
 description: > # this means to ignore newlines until "baseurl:"
         Dies ist ein inkrementelles Backup unserer Wordpress-Seite unter 
