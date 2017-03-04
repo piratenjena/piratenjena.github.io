@@ -5,11 +5,18 @@ date: 2012-11-20 14:15:37.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: Kommunalpolitik
-tags: Bäume Baumkronen Grün Kappung ZTV
-author: bastian
-email: leonid@unimx.de
-display_name: Herr Schmidt
+categories:
+  - Kommunalpolitik
+tags:
+  - Bäume
+  - Baumkronen
+  - Grün
+  - Kappung
+  - ZTV
+author:
+  login: bastian
+  email: leonid@unimx.de
+  display_name: Herr Schmidt
 ---
 [![Foto eines tot sanierten Baums]({{ site.baseurl }}/assets/tot_saniert2-300x280.jpg)](/pictures/tot_saniert2.jpg)
 

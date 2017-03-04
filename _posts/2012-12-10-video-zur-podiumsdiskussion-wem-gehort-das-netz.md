@@ -7,9 +7,10 @@ published: true
 status: publish
 categories: Urheberrecht
 tags: Datenschutz Netz Netzpolitik
-author: bastian
-email: leonid@unimx.de
-display_name: Herr Schmidt
+author:
+  login: bastian
+  email: leonid@unimx.de
+  display_name: Herr Schmidt
 ---
 Johannes Ponader, Politischer Geschäftsführer der PIRATENPARTEI Deutschland, diskutierte am 7.Dezember 2012 mit Bodo Ramelow (Fraktionsvorsitzende DIE LINKE im Thüringer Landtag
  ) und Prof. Reinhard Schramm (ehemaliger Leiter des Landespatentzentrum Thüringen an der TU Ilmenau, SPD) über Konflikte zwischen Konflikte zwischen Kultur, Medien und Netz. Das Video zur Diskussion gibt es hier:

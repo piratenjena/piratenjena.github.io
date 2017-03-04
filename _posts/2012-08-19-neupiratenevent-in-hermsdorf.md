@@ -5,11 +5,18 @@ date: 2012-08-19 20:17:42.000000000 +02:00
 type: post
 published: true
 status: publish
-categories: Allgemein Veranstaltungen
-tags: Hermsdorf Neupiraten Schulung SHK
-author: kai79
-email: ubigaz@gmx.de
-display_name: kai79
+categories:
+  - Allgemein
+  - Veranstaltungen
+tags:
+  - Hermsdorf
+  - Neupiraten
+  - Schulung
+  - SHK
+author: 
+  login: kai79
+  email: ubigaz@gmx.de
+  display_name: kai79
 ---
 Am Freitag, den **24.08.2012 um 19 Uhr findet in Hermsdorf** unsere nächste
 

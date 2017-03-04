@@ -5,11 +5,17 @@ date: 2012-06-19 20:20:49.000000000 +02:00
 type: post
 published: true
 status: publish
-categories: Kommunalpolitik
-tags: Cannabis Drogen Drogenpolitik Polizei
-author: kai79
-email: ubigaz@gmx.de
-display_name: kai79
+categories:
+  - Kommunalpolitik
+tags:
+  - Cannabis
+  - Drogen
+  - Drogenpolitik
+  - Polizei
+author: 
+  login: kai79
+  email: ubigaz@gmx.de
+  display_name: kai79
 ---
 Piraten wenden sich entschieden gegen anlasslose Passantenkontrollen
 ====================================================================

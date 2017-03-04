@@ -5,10 +5,12 @@ date: 2012-11-01 08:51:11.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: Allgemein
-author: bastian
-email: leonid@unimx.de
-display_name: Herr Schmidt
+categories:
+  - Allgemein
+author: 
+  login: bastian
+  email: leonid@unimx.de
+  display_name: Herr Schmidt
 ---
 Der Vorstand des Landesverbandes Thüringen der Piratenpartei Deutschland lädt hiermit zur Aufstellungsversammlung des Kreiswahlvorschlages (&bdquo;Direktkandidat&ldquo;) für den Wahlkreis 194 (Gera – Jena – Saale-Holzland-Kreis) zur Wahl des 18. Deutschen Bundestages ein.
 

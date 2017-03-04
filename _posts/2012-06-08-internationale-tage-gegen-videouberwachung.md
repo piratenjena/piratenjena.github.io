@@ -5,11 +5,15 @@ date: 2012-06-08 20:25:39.000000000 +02:00
 type: post
 published: true
 status: publish
-categories: Veranstaltungen
-tags: INDECT Überwachungsstaat
-author: kai79
-email: ubigaz@gmx.de
-display_name: kai79
+categories:
+  - Veranstaltungen
+tags:
+  - INDECT
+  - Überwachungsstaat
+author: 
+  login: kai79
+  email: ubigaz@gmx.de
+  display_name: kai79
 ---
 PIRATEN JENA fordern mehr Verantwortungsbewußtsein in der Stadtverwaltung
 =========================================================================

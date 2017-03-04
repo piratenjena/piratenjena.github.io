@@ -6,9 +6,10 @@ type: post
 published: true
 status: publish
 categories: Allgemein Veranstaltungen
-author: bastian
-email: leonid@unimx.de
-display_name: Herr Schmidt
+author: 
+  login: bastian
+  email: leonid@unimx.de
+  display_name: Herr Schmidt
 ---
 Peter Altmaier, Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit, wird am 20. Dezember 2012 um 20:00 Uhr zu Gast auf dem Online-Diskussionspodium &bdquo;[Mumble][]&ldquo; sein und mit Piraten und interessierten Gästen diskutieren. Als Themen der Diskussion sind u. a. die Energiewende, Energiespeichersysteme, der Atomausstieg und der Netzausbau vorgesehen.
 

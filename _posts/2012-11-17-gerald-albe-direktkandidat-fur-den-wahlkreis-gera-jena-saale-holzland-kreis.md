@@ -5,10 +5,12 @@ date: 2012-11-17 15:58:28.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: Allgemein
-author: bastian
-email: leonid@unimx.de
-display_name: Herr Schmidt
+categories:
+  - Allgemein
+author: 
+  login: bastian
+  email: leonid@unimx.de
+  display_name: Herr Schmidt
 ---
 Hermsdorf – Gestern wurde der vierte Direktkandidat der PIRATEN Thüringen für die Bundestagswahl 2013 gekürt. Als Bewerber stellten sich der Landesvorsitzende Gerald Albe und Wieland Rose den anwesenden Piraten zur Wahl. Mit 11 von 13 Stimmen wurde Albe knapp vor Rose (8 von 13 Stimmen) gewählt.
 

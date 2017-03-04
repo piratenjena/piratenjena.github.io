@@ -5,11 +5,18 @@ date: 2012-07-10 20:05:51.000000000 +02:00
 type: post
 published: true
 status: publish
-categories: Stadtrat Stadtverwaltung
-tags: Geschäftsführer Jena SPD Stadtwerke
-author: frank
-email: post@equinox-net.de
-display_name: frank
+categories:
+  - Stadtrat
+  - Stadtverwaltung
+tags:
+  - Geschäftsführer
+  - Jena
+  - SPD
+  - Stadtwerke
+author: 
+  login: frank
+  email: post@equinox-net.de
+  display_name: frank
 ---
 PIRATEN mahnen mehr Transparenz bei Personalentscheidungen an
 =============================================================

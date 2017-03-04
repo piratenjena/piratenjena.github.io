@@ -5,10 +5,12 @@ date: 2012-11-01 08:51:39.000000000 +01:00
 type: post
 published: true
 status: publish
-categories: Allgemein
-author: bastian
-email: leonid@unimx.de
-display_name: Herr Schmidt
+categories:
+  - Allgemein
+author: 
+  login: bastian
+  email: leonid@unimx.de
+  display_name: Herr Schmidt
 ---
 Der Jenaer Kreisverband der Piratenpartei wurde im August drei Jahre alt. Deshalb lädt die Partei auch dieses Jahr zu einem Herbstempfang ein – **am Donnerstag, den 1. November, ab 18 Uhr in das Ricarda-Huch-Haus**.
 

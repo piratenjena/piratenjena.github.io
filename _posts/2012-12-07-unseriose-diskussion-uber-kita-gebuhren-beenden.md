@@ -7,9 +7,10 @@ published: true
 status: publish
 categories: Kommunalpolitik Stadtverwaltung
 tags: Gebühren Jena Kindertagesstätten Kita
-author: bastian
-email: leonid@unimx.de
-display_name: Herr Schmidt
+author:
+  login: bastian
+  email: leonid@unimx.de
+  display_name: Herr Schmidt
 ---
 Die PIRATEN Jena fordern, die aktuellen Debatten um um eine angeblich vom Bürger gewünschte Erhöhung der Kita-Gebühren einzustellen und die Ergebnisse des aktuellen Bürgerhaushaltes zu diesem Thema zu respektieren.
 
