@@ -2,8 +2,7 @@
 layout: post
 title: Klare Erwartungen an die Personalie Dirkes
 date: 2012-07-10 20:05:51 +01:00
-categories: Stadtrat, Stadtverwaltung
-tags: Geschäftsführer, Jena, SPD, Stadtwerke
+categories: Stadtrat Stadtverwaltung
 author: Frank Cebulla
 ---
 PIRATEN mahnen mehr Transparenz bei Personalentscheidungen an
