@@ -11,9 +11,7 @@ author: bastian
 email: leonid@unimx.de
 display_name: Herr Schmidt
 ---
-![Foto eines tot sanierten Baums]({{site.baseurl}}/assets/tot_saniert2-320x280.jpg)
-
-[Foto des toten Baums gr&ouml;&szlig;er]({{ site.baseurl }}/assets/tot_saniert2.jpg)
+[![Foto eines tot sanierten Baums]({{ site.baseurl }}/assets/tot_saniert2-300x280.jpg)](/pictures/tot_saniert2.jpg)
 
 _Seit Jahren nicht fachgerechter Baumschnitt in Jena - es reicht!_
 
@@ -30,7 +28,20 @@ Leider lässt die grüne Stadtratsfraktion kein Interesse an dieser Thematik erk
 
 **Gekappte Bäume im Stadtgebiet und im Paradies:**
 
-[gallery link="file"]
+[![absurd]({{ site.baseurl }}/assets/absurd-150x150.jpg)](/pictures/absurd.jpg)
+[![Baum ohne Ast]({{ site.baseurl }}/assets/baum_ohne_ast-150x150.jpg)](/pictures/baum_ohne_ast.jpg)
+[![Baumpflege in Jena]({{ site.baseurl }}/assets/baumpflege_jena-150x150.jpg)](/pictures/baumpflege_jena.jpg)
+[![KSJ Baum]({{ site.baseurl }}/assets/ksj_baum-150x150.jpg)](/pictures/ksj_baum.jpg)
+[![KSJ Paradies]({{ site.baseurl }}/assets/ksj_paradies_web-150x150.jpg)](/pictures/ksj_paradies_web.jpg)
+[![Pappelreihe Seidelplatz]({{ site.baseurl }}/assets/pappelreihe_seidelplatz-150x150.jpg)](/pictures/pappelreihe_seidelplatz.jpg)
+[![Seidelplatz Bild1]({{ site.baseurl }}/assets/seidelplatz1-150x150.jpg)](/pictures/seidelplatz1.jpg)
+[![tot saniert Bild1]({{ site.baseurl }}/assets/tot_saniert1-150x150.jpg)](/pictures/tot_saniert1.jpg)
+[![tot saniert Bild2]({{ site.baseurl }}/assets/tot_saniert2-150x150.jpg)](/pictures/tot_saniert2.jpg)
+[![Wasserreiser]({{ site.baseurl }}/assets/wasserreiser-150x150.jpg)](/pictures/wasserreiser.jpg)
+[![Wasserreiser Bild2]({{ site.baseurl }}/assets/wasserreiser2-150x150.jpg)](/pictures/wasserreiser2.jpg)
+[![Wasserreiser Bild3]({{ site.baseurl }}/assets/wasserreiser3-150x150.jpg)](/pictures/wasserreiser3.jpg)
+
+
 
 **Mehr Informationen zu dem Thema:**
 

@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
         Dies ist ein inkrementelles Backup unserer Wordpress-Seite unter 
         piraten-jena.de. Es ist möglicherweise nicht immer ganz aktuell.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site, e.g. http://example.com
+url: https://piratenjena.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: piratenjena
 github_username:  piratenjena
 

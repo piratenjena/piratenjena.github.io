@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vortrag am Do 15.11. - Vom Aussterben bedroht&#58; Die Universalmaschine Computer
+title: Vortrag am Do 15.11. - Vom Aussterben bedroht⁚ Die Universalmaschine Computer
 date: 2012-11-17 15:58:41.000000000 +01:00
 type: post
 published: true
