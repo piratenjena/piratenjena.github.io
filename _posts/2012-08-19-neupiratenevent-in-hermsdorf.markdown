@@ -1,15 +1,21 @@
 ---
 layout: post
 title: Neupiratenevent in Hermsdorf
-date: 2012-08-19 20:17:42 +01:00
+date: 2012-08-19 20:17:42.000000000 +02:00
+type: post
+published: true
+status: publish
 categories: Allgemein Veranstaltungen
-author: Kai Felske
+tags: Hermsdorf Neupiraten Schulung SHK
+author: kai79
+email: ubigaz@gmx.de
+display_name: kai79
 ---
 Am Freitag, den **24.08.2012 um 19 Uhr findet in Hermsdorf** unsere nächste
 
 Neupiraten- und Informationsveranstaltung statt.<br />
-Ihr wolltet schon immer wissen was denn nun "Piratsein" bedeutet, was<br />
-dieses "Liquid Feedback" ist oder wie man sich selbst einbringen kann?<br />
+Ihr wolltet schon immer wissen was denn nun &bdquo;Piratsein&ldquo; bedeutet, was<br />
+dieses &bdquo;Liquid Feedback&ldquo; ist oder wie man sich selbst einbringen kann?<br />
 Dann ist das genau der richtige Termin für euch!<br />
 In mehreren kleinen Vorträgen erzählen euch erfahrene Piraten, dass der<br />
 Einstieg zum piratigen Arbeiten nicht schwer sein muss und auch nicht<br />

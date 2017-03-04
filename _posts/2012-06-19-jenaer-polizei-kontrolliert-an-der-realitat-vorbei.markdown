@@ -1,21 +1,19 @@
 ---
 layout: post
 title: Jenaer Polizei kontrolliert an der Realität vorbei
-date: 2012-06-19 20:20:49 +01:00
+date: 2012-06-19 20:20:49.000000000 +02:00
+type: post
+published: true
+status: publish
 categories: Kommunalpolitik
-tags:
-- Cannabis
-- Drogen
-- Drogenpolitik
-- Polizei
-meta:
-  _edit_last: '28'
-  _tt_query: ''
-author: Kai Felske
+tags: Cannabis Drogen Drogenpolitik Polizei
+author: kai79
+email: ubigaz@gmx.de
+display_name: kai79
 ---
 Piraten wenden sich entschieden gegen anlasslose Passantenkontrollen
 ====================================================================
-Einer kürzlich veröffentlichten Pressemitteilung der Jenaer Polizei war zu entnehmen, dass Jenaer Bürger derzeit auf der Straße Taschenkontrollen unterzogen werden. Als Grund für die verstärkte Ermittlungen wurde eventueller Drogenbesitz angegeben.[1][1]
+Einer kürzlich veröffentlichten [Pressemitteilung der Jenaer Polizei war zu entnehmen][1], dass Jenaer Bürger derzeit auf der Straße Taschenkontrollen unterzogen werden. Als Grund für die verstärkte Ermittlungen wurde eventueller Drogenbesitz angegeben.
 
 Offenbar scheint es für einen Anfangsverdacht zu genügen, wenn Jugendliche und junge Erwachsene &bdquo;weite Hosen und Kapuzen-Pullis&ldquo; tragen. Die Jenaer Piraten äußern zu dieser Vorgehensweise scharfe Kritik. Nicht genug, dass hier die Privatsphäre von unbescholtenen und völlig unauffälligen Bürgern ins Visier genommen wird. Auf peinliche Art und Weise wird überdies darauf hingewiesen, dass die Aktion bewusst Konsumenten zum Ziel hat und nicht &bdquo;die dicken Fische im Drogengeschäft&ldquo;.
 
