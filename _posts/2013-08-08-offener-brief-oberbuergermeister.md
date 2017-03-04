@@ -20,7 +20,7 @@ author:
 ---
 Sehr geehrter Herr Dr. Schröter,
 
-erst unlängst [haben sich die PIRATEN Jena gegen übermäßigen, vor allem aber nicht fachgerechten Baumbeschnitt in der Stadt ausgesprochen][1]. Ihrer Verwaltung dürfte zudem der Unmut vieler Bürger zu derartigen Maßnahmen in der Vergangenheit bestens bekannt sein.
+erst unlängst [haben sich die PIRATEN Jena gegen übermäßigen, vor allem aber nicht fachgerechten Baumbeschnitt in der Stadt ausgesprochen]({{ site.baseurl }}{% link _posts/2012-11-20-jena-kein-paradies-fur-baume.md %}). Ihrer Verwaltung dürfte zudem der Unmut vieler Bürger zu derartigen Maßnahmen in der Vergangenheit bestens bekannt sein.
 
 Fachleute und Baumpflege-Experten, etwa der Forschungsgesellschaft Landschaftsentwicklung Landschaftsbau e. V., sind sich seit Jahren einig, dass Kronenkappungen und Starkastverschnitte keine fachgerechten Pflegemaßnahmen darstellen. Ganz im Gegenteil werden durch diese überzogenen Eingriffe Bäume unumkehrbar geschädigt. Ein wirklicher Nutzen ist nicht erkennbar. Diese Erkenntnisse finden ihren Niederschlag in aktuellen Regelwerken, z. B. der ZTV Baumpflege.
 
@@ -41,5 +41,3 @@ Frank Cebulla
 
 Politischer Geschäftsführer<br />
 Piratenpartei Deutschland - Kreisverband Jena
-
-[1]: {{ site.baseurl }}{% link _posts/2012-11-20-jena-kein-paradies-fur-baume.md %}
