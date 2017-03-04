@@ -42,4 +42,4 @@ Frank Cebulla
 Politischer Geschäftsführer<br />
 Piratenpartei Deutschland - Kreisverband Jena
 
-[1]: {{ site.baseurl }}{{% link 2012-11-20-jena-kein-paradies-fur-baume.md}}
+[1]: {{ site.baseurl }}{% link _posts/2012-11-20-jena-kein-paradies-fur-baume.md %}
