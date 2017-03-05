@@ -6,6 +6,6 @@ angelegt werden. Wenn Du beim Sichern der Website behilflich sein willst,
 melde Dich bei [p1ng0utNet](https://github.com/p1ng0utNet). Alle Texte
 stehen frei zur Verfügung und können genutzt werden. Das Backup wird zur 
 Ansicht auf [piratenjena.github.io](https://piratenjena.github.io) gehostet.
-Die original Website ist unter [piraten-jena.de][] zu finden.
+Die original Website ist unter [piraten-jena.de][1] zu finden.
 
-[piraten-jena.de](http://piraten-jena.de "Website der PIRATEN JENA")
+[1](http://piraten-jena.de "Website der PIRATEN JENA")
