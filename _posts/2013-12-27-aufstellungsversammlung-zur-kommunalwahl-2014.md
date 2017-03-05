@@ -23,9 +23,9 @@ Sofern die Aufstellungsversammlung nichts Gegenteiliges beschließt, sind Gäste
 
 **Hier die wichtigsten Informationen:**
 
-Datum: Sonntag, den 9. Februar 2014
-Beginn der Akkreditierung: 9 Uhr
-Beginn der Veranstaltung: 10 Uhr
+Datum: Sonntag, den 9. Februar 2014<br />
+Beginn der Akkreditierung: 9 Uhr<br />
+Beginn der Veranstaltung: 10 Uhr<br />
 Ort: Ricarda-Huch-Haus, Löbdergraben 7, 07743 Jena
 
 **Die vorläufige Tagesordnung:**
