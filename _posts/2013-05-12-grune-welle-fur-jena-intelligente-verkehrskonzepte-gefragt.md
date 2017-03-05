@@ -26,7 +26,7 @@ Diese und viele weitere Beispiele kennt jeder Verkehrsteilnehmer in Jena. Dabei 
 
 Sicherheit und Zufriedenheit der Verkehrsteilnehmer sind nur ein Aspekt. Nicht optimierte Grünphasen und viele rote Ampeln bedeuten auch mehr Lärm und Schadstoffausstoß durch anfahrende Autos. Ampeln, die nachts oder am Wochenende ohne Notwendigkeit in Betrieb sind, verbrauchen unnötig Strom. Optimierte Grünphasen sorgen für weniger Stau, insbesondere im Feierabendverkehr.
 
-Unter dem Motto &bdquo;**Grüne Welle für Jena**&ldquo; rufen die PIRATEN Jena die Bürgerinnen und Bürger zur Mitarbeit auf. Lassen Sie uns Ihre Erfahrungen mit bestimmten Ampelkreuzungen und kritischen oder einfach nur ärgerlichen Verkehrssituationen wissen! Wo besteht Verbesserungsbedarf? Wo kann der Verkehrsfluss optimiert werden? Wo besteht ein erhöhtes Risiko für Fußgänger und Radfahrer? An welchen Stellen sind Ampeln auch nachts oder an Wochenenden unnötig in Betrieb? Wo fehlt eine wichtige Beschilderung, und wo sind Verkehrschilder überflüssig oder verwirren nur?
+Unter dem Motto „**Grüne Welle für Jena**“ rufen die PIRATEN Jena die Bürgerinnen und Bürger zur Mitarbeit auf. Lassen Sie uns Ihre Erfahrungen mit bestimmten Ampelkreuzungen und kritischen oder einfach nur ärgerlichen Verkehrssituationen wissen! Wo besteht Verbesserungsbedarf? Wo kann der Verkehrsfluss optimiert werden? Wo besteht ein erhöhtes Risiko für Fußgänger und Radfahrer? An welchen Stellen sind Ampeln auch nachts oder an Wochenenden unnötig in Betrieb? Wo fehlt eine wichtige Beschilderung, und wo sind Verkehrschilder überflüssig oder verwirren nur?
 
 Schreiben Sie uns eine Email an [gruene\_welle@piraten-jena.de](mailto:gruene_welle@piraten-jena.de) oder
 

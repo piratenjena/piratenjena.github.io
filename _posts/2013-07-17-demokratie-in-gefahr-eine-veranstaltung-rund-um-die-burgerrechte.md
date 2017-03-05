@@ -19,7 +19,7 @@ Wie kann man Privatspäre schützen in einer Welt der elektronischen Gesundheits
 
 Gerald  Albe, Diplom-Informatiker und Direktkandidat der Piratenpartei für den Wahlkreis 194 (Jena - Gera - SHK), klärt auf und zeigt Möglichkeiten, wie man illegales Ausspähen verhindern und persönliche Daten auf Handy oder PC zu schützen kann.
 
-&bdquo;_Tatsächlich wäre es die Pflicht der Bundesregierung, die Bürger vor den verfassungswidrigen Zugriffen - auch befreundeter - Länder zu schützen. Da sie das nicht tut, ist es umso wichtiger, die  Kontrolle über die eigenen Daten selbst in die Hand zu nehmen_&ldquo;, sagt Gerald Albe.
+„_Tatsächlich wäre es die Pflicht der Bundesregierung, die Bürger vor den verfassungswidrigen Zugriffen - auch befreundeter - Länder zu schützen. Da sie das nicht tut, ist es umso wichtiger, die  Kontrolle über die eigenen Daten selbst in die Hand zu nehmen_“, sagt Gerald Albe.
 
 Die immer neuen Enthüllungen über Datenerfassung und Überwachung durch die USA und andere Länder machen es deutlich: Unsere Bürgerrechte sind mehr denn je in Gefahr. Die Bundesregierung zeigt sich unfähig und unwillig, etwas dagegen zu unternehmen. Stattdessen werden auch in Deutschland mit dem Hinweis auf angeblich drohende Terroranschläge immer mehr Bürgerrechte durch Gesetze wie die Bestandsdatenauskunft oder die geplante Vorratsdatenspeicherung beschnitten.
 

@@ -16,6 +16,6 @@ Der Jenaer Kreisverband der Piratenpartei wurde im August drei Jahre alt. Deshal
 
 Die Jenaer Piraten möchten über ihre Arbeit im vergangenen Jahr berichten und einen Ausblick auf künftige politische Aktivitäten und Ziele geben. Wie Bürgerbeteiligung in der politischen Praxis aussehen kann, sollen piratige Anregungen für mehr Mitbestimmung, politische Offenheit und transparente Kommunalpolitik zeigen. Neben Gästen aus dem Landesvorstand Thüringen und geladenen Vertretern aus Kommunalpolitik und Verwaltung sind deshalb auch Bürger willkommen, die sich über Piratenpolitik informieren und die Jenaer Piraten persönlich kennenlernen wollen.
 
-&bdquo;Wir freuen uns darauf, in lockerer Atmosphäre mit unseren Gästen ins Gespräch zu kommen und über die Stärkung der direkten Demokratie in unserer Stadt zu diskutieren&ldquo;, sagt dazu Frank Cebulla, Politischer Geschäftsführer des Kreisverbands.
+„Wir freuen uns darauf, in lockerer Atmosphäre mit unseren Gästen ins Gespräch zu kommen und über die Stärkung der direkten Demokratie in unserer Stadt zu diskutieren“, sagt dazu Frank Cebulla, Politischer Geschäftsführer des Kreisverbands.
 
 Für erfrischende Getränke und einen kleinen Imbiss ist gesorgt.

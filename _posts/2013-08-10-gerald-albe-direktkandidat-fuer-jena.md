@@ -18,7 +18,7 @@ author:
 ---
 Zu meiner Person
 ----------------
-Ich bin 1976 in Thuine im Emsland geboren und habe meine Kindheit an verschiedenen Orten, teilweise auch im Ausland, verbracht. Seit 1986 wohnt meine Familie in Bremen, wo ich auch mein Abitur gemacht habe. Nach meinem Wehrpflichtjahr habe ich dann &bdquo;Naturwissenschaftliche Informatik&ldquo; mit Schwerpunkt Robotik in Bielefeld studiert, da mich das Thema Künstliche Intelligenz und Robotik schon früh interessiert hat. Seit 2005 arbeitete ich in Jena, bei der Jena-Optronik GmbH, zuletzt als Projektleiter im Raumfahrtbereich. Parallel bin ich seit 2005 Mitglied bei Amnesty International, und war bis 2009 auch aktives Mitglied in der Gruppe in Jena. In die Piratenpartei bin ich 2009 eingetreten und war von 2009 – 2011 politischer Geschäftsführer im KV Jena. Seit Mai 2012 bekleide ich das Amt des Vorsitzenden der PIRATEN Thüringen.
+Ich bin 1976 in Thuine im Emsland geboren und habe meine Kindheit an verschiedenen Orten, teilweise auch im Ausland, verbracht. Seit 1986 wohnt meine Familie in Bremen, wo ich auch mein Abitur gemacht habe. Nach meinem Wehrpflichtjahr habe ich dann „Naturwissenschaftliche Informatik“ mit Schwerpunkt Robotik in Bielefeld studiert, da mich das Thema Künstliche Intelligenz und Robotik schon früh interessiert hat. Seit 2005 arbeitete ich in Jena, bei der Jena-Optronik GmbH, zuletzt als Projektleiter im Raumfahrtbereich. Parallel bin ich seit 2005 Mitglied bei Amnesty International, und war bis 2009 auch aktives Mitglied in der Gruppe in Jena. In die Piratenpartei bin ich 2009 eingetreten und war von 2009 – 2011 politischer Geschäftsführer im KV Jena. Seit Mai 2012 bekleide ich das Amt des Vorsitzenden der PIRATEN Thüringen.
 
 Ich bin davon überzeugt, dass derzeit durch die technologische Entwicklung ein gesellschaftlicher Wandel ausgelöst wird, der ähnlich transformierend auf die Gesellschaft wirken wird, wie der Buchdruck oder die Industrialisierung.
 
@@ -35,7 +35,7 @@ Die vor uns als Gesellschaft liegende Aufgabe ruht aus meiner Sicht auf mehreren
 - Verhinderung einer weitergehenden Monopolisierung gesellschaftlicher Grundlagen
 
 ### Sicherung der Bürger- und Menschenrechte #
-Bürger- und Menschenrechte sind aus mehreren Gründen bedroht. Zum einen wird, basierend auf einer Angst vor Terrorismus bzw. Kriminalität einredenden Argumentation, ein Abbau bestehender Rechte und eine Transformation hin zu einem Präventionsstaat betrieben. Dieser Argumentation muss eine Prüfung ihrer Grundannahmen, eine Evaluation der geforderten Maßnahmen nach Nutzen vs. Schaden und die Aussage entgegengesetzt werden, dass &bdquo;Wer die Freiheit aufgibt um ein bisschen temporäre Sicherheit zu gewinnen am Ende beides verlieren wird, Freiheit und Sicherheit.&ldquo; um es frei nach Benjamin Franklin zu sagen.
+Bürger- und Menschenrechte sind aus mehreren Gründen bedroht. Zum einen wird, basierend auf einer Angst vor Terrorismus bzw. Kriminalität einredenden Argumentation, ein Abbau bestehender Rechte und eine Transformation hin zu einem Präventionsstaat betrieben. Dieser Argumentation muss eine Prüfung ihrer Grundannahmen, eine Evaluation der geforderten Maßnahmen nach Nutzen vs. Schaden und die Aussage entgegengesetzt werden, dass „Wer die Freiheit aufgibt um ein bisschen temporäre Sicherheit zu gewinnen am Ende beides verlieren wird, Freiheit und Sicherheit.“ um es frei nach Benjamin Franklin zu sagen.
 
 Zum anderen ermöglichen Entwicklungen in der Computertechnologie und Informatik Überwachungssysteme zu entwerfen, die auf ein vollautomatisches Scannen der Bevölkerung hinauslaufen und deren Missbrauchspotential sich noch gar nicht abschätzen lässt. Hier seien als Beispiele nur das EU-Projekt INDECT genannt. Hier ist es wichtig, klar zu kommunizieren, dass der Einsatz oder auch nur die Existenz derartiger Systeme mit einem demokratischen Rechtsstaat nicht vereinbar sind.
 
@@ -47,7 +47,7 @@ Zusätzlich muss das Mitspracherecht der Bürger gestärkt werden, z. B. indem e
 Außerdem muss durch gut definierte Vorgaben an Mandats- oder Amtsträger sichergestellt werden, dass die Querverbindungen, auch finanzieller Art, zu einzelnen Interessengruppen, wie z. B. Lobbyverbänden, minimiert werden.
 
 ### Sicherung der Möglichkeiten des einzelnen Menschen, seinen Lebensentwurf frei wählen zu können #
-&bdquo;Die Rechte und die Freiheit des Einzelnen findet ihre Schranken nur in den Rechten und der Freiheit der anderen Menschen.&ldquo;
+„Die Rechte und die Freiheit des Einzelnen findet ihre Schranken nur in den Rechten und der Freiheit der anderen Menschen.“
 
 Diese Aussage beschreibt mein Ideal des gesellschaftlichen Miteinanders, unabhängig davon, auf welches Politikfeld man sich bezieht. Aufgabe der Politik ist es aus meiner Sicht auch, zu verhindern, dass einzelne Interessengruppen der Gesellschaft ihr präferiertes Lebensmodell aufdrücken können.
 
@@ -60,7 +60,7 @@ Durch das Internet ist es möglich, das Wissen und die Kultur der Menschheit ten
 Es ist aber notwendig jedem Menschen eine optimale Bildung zu ermöglichen, um zum einen einen Zugang zu einer immer komplexer werdenden Gesellschaft und Arbeitswelt zu ermöglichen und zum anderen um sie zu befähigen, als mündige Bürger informierte Entscheidungen treffen zu können.
 
 ### Anpassung der Gesellschaft an die Folgen der technologischen Revolution #
-Wir erleben derzeit eine bisher nicht gekannte technologische Beschleunigung, unabhängig davon, ob es um die fast grenzenlose Verbreitung von Wissen und Information über das Internet, die Produktivitätszuwächse in der Produktionsindustrie oder die neuen, durch Forschung im Bereich &bdquo;Künstliche Intelligenz&ldquo; ermöglichten Veränderungen geht.
+Wir erleben derzeit eine bisher nicht gekannte technologische Beschleunigung, unabhängig davon, ob es um die fast grenzenlose Verbreitung von Wissen und Information über das Internet, die Produktivitätszuwächse in der Produktionsindustrie oder die neuen, durch Forschung im Bereich „Künstliche Intelligenz“ ermöglichten Veränderungen geht.
 
 Als Ergebnis werden viele bisher gehegte Vorstellungen von der Struktur der Arbeitswelt oder den Grenzen der Automatisierung (z. B. in den Bereichen Wirtschaft, Güterproduktion oder Kriegsführung) auf den Prüfstand gestellt. Dies hat sowohl positive, als auch negative Konsequenzen.
 
@@ -71,7 +71,7 @@ Es ist eine inzwischen allgemein bekannte Tatsache, dass die Schere zwischen Arm
 
 Die Gründe für diese Entwicklung liegen in der leichten Zugänglichkeit der Politik gegenüber einzelnen Interessengruppen, der steigenden Abhängigkeit der Gesellschaft gegenüber einzelnen privaten Akteuren, durch z. B. Privatisierungen oder überhohe Staatsschulden, und auch in der Tatsache, dass viele Grundlagen für eine moderne Gesellschaft nur monopolisiert zugänglich sind.
 
-Ziel muss es sein, diese Abhängigkeiten und Möglichkeiten zur Einflussnahme möglichst klein zu halten und jedes Monopol, sei es durch den Markt entstanden, durch Privatisierungen oder durch die derzeit verwendetete Definition des so genannten &bdquo;geistigen Eigentums&ldquo;, auf seinen Nutzen für die Gesellschaft zu überprüfen. Monopole und Oligopole sollten, wenn überhaupt, von der Gesellschaft nur geduldet werden, wenn ihr Nutzen für die Gesellschaft zweifelsfrei belegt ist.
+Ziel muss es sein, diese Abhängigkeiten und Möglichkeiten zur Einflussnahme möglichst klein zu halten und jedes Monopol, sei es durch den Markt entstanden, durch Privatisierungen oder durch die derzeit verwendetete Definition des so genannten „geistigen Eigentums“, auf seinen Nutzen für die Gesellschaft zu überprüfen. Monopole und Oligopole sollten, wenn überhaupt, von der Gesellschaft nur geduldet werden, wenn ihr Nutzen für die Gesellschaft zweifelsfrei belegt ist.
 
 Sonstiges
 ---------

@@ -17,7 +17,7 @@ author:
   display_name: Herr Schmidt
 ---
 Der vergangene Woche vom Stadtrat beschlossene Doppelhaushalt für die Jahre 2013 und 2014 spricht eine deutliche Sprache - es muss gespart werden, allerdings nicht überall. Insgesamt liegen die Ausgaben 2013 sogar mehr als 10 Millionen Euro höher als 2012.
-Bastian Ebert, Vorsitzender der PIRATEN Jena, erklärte dazu: &bdquo;_Die Zuschüsse der Landesregierung an Jena werden sinken, und auch das Haushaltsvolumen von Thüringen wird sich bis 2020 um mindestens 20 Prozent reduzieren. Es wäre daher sinnvoll gewesen, den aktuellen Haushalt darauf auszurichten. Stattdessen wird immer mehr Geld ausgegeben und als Ausgleich auch immer mehr auf direkten und indirekten Wegen von den Bürgern kassiert. Diese Kostenspirale nach oben werden viele Jenaer nicht lange durchhalten können_.&ldquo;
+Bastian Ebert, Vorsitzender der PIRATEN Jena, erklärte dazu: „_Die Zuschüsse der Landesregierung an Jena werden sinken, und auch das Haushaltsvolumen von Thüringen wird sich bis 2020 um mindestens 20 Prozent reduzieren. Es wäre daher sinnvoll gewesen, den aktuellen Haushalt darauf auszurichten. Stattdessen wird immer mehr Geld ausgegeben und als Ausgleich auch immer mehr auf direkten und indirekten Wegen von den Bürgern kassiert. Diese Kostenspirale nach oben werden viele Jenaer nicht lange durchhalten können_.“
 
 Während gerade im sozialen Bereich und bei Familien Einschnitte gemacht wurden, können sich Kultur und Verwaltung über mehr Geld freuen.
 

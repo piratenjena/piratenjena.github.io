@@ -11,7 +11,7 @@ author:
   email: leonid@unimx.de
   display_name: Herr Schmidt
 ---
-Peter Altmaier, Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit, wird am 20. Dezember 2012 um 20:00 Uhr zu Gast auf dem Online-Diskussionspodium &bdquo;[Mumble][]&ldquo; sein und mit Piraten und interessierten Gästen diskutieren. Als Themen der Diskussion sind u. a. die Energiewende, Energiespeichersysteme, der Atomausstieg und der Netzausbau vorgesehen.
+Peter Altmaier, Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit, wird am 20. Dezember 2012 um 20:00 Uhr zu Gast auf dem Online-Diskussionspodium „[Mumble][]“ sein und mit Piraten und interessierten Gästen diskutieren. Als Themen der Diskussion sind u. a. die Energiewende, Energiespeichersysteme, der Atomausstieg und der Netzausbau vorgesehen.
 
 Für die PIRATEN werden der Parteivorsitzende der Piratenpartei Deutschland Bernd Schlömer, die Koordinatoren AG Umwelt Bernd Schreiner und Guido Körber sowie Jürgen Stemke von den AntiAtomPiraten teilnehmen.
 
@@ -19,11 +19,11 @@ In Deutschland wird die Energiewende geplant. Um den Wandel erfolgreich zu bewä
 
 Die Energiewende stellt Deutschland vor enorme Herausforderungen. Die PIRATEN wollen deswegen eine möglichst breite gesellschaftliche Debatte anregen.
 
-&bdquo;Die Herausforderungen der Energiewende können nur in einem breiten gesellschaftlichen Konsens gelöst werden. Dazu ist es notwendig, dass alle gesellschaftlichen Kräfte miteinander ins Gespräch kommen, um gemeinsame Lösungswege zu erarbeiten&ldquo;, so Bernd Schlömer, Vorsitzender der Piratenpartei Deutschland.
+„Die Herausforderungen der Energiewende können nur in einem breiten gesellschaftlichen Konsens gelöst werden. Dazu ist es notwendig, dass alle gesellschaftlichen Kräfte miteinander ins Gespräch kommen, um gemeinsame Lösungswege zu erarbeiten“, so Bernd Schlömer, Vorsitzender der Piratenpartei Deutschland.
 
-&bdquo;In der Energiewende liegt ein enormes wirtschaftliches Potential für unser Land. Wer die Energieversorgung seiner Wirtschaft als erster unabhängig von fossilen Energieträgern macht, eröffnet sich einen weltweiten Zukunftsmarkt&ldquo;, führt Bernd Schreiner aus.
+„In der Energiewende liegt ein enormes wirtschaftliches Potential für unser Land. Wer die Energieversorgung seiner Wirtschaft als erster unabhängig von fossilen Energieträgern macht, eröffnet sich einen weltweiten Zukunftsmarkt“, führt Bernd Schreiner aus.
 
-Um der Podiumsdiskussion folgen zu können, ist die Installation der Sprachkonferenz-Software &bdquo;[Mumble][]&ldquo; notwendig. Mit dieser Software ist auch eine Beteiligung an der anschließenden Diskussion möglich. Alternativ kann eine Audio-Liveübertragung ([Audiostream][] verfolgt werden. Fragen an die Experten können bereits jetzt in einem [Online-Textdokument][Piratenpad] (Piratenpad) hinterlegt werden.
+Um der Podiumsdiskussion folgen zu können, ist die Installation der Sprachkonferenz-Software „[Mumble][]“ notwendig. Mit dieser Software ist auch eine Beteiligung an der anschließenden Diskussion möglich. Alternativ kann eine Audio-Liveübertragung ([Audiostream][] verfolgt werden. Fragen an die Experten können bereits jetzt in einem [Online-Textdokument][Piratenpad] (Piratenpad) hinterlegt werden.
 
 [Mumble]: http://wiki.piratenpartei.de/mumble "Anleitung zu Mumble"
 [Audiostream]: http://www.piraten-streaming.de/?page_id=688&amp;id=735 "Link zum Streaming"

@@ -24,7 +24,7 @@ author:
 Seit Mitte Mai fragen die PIRATEN Jena die Bürgerinnen und Bürger nach ihren Meinungen und Anmerkungen für intelligentere Verkehrskonzepte in der Stadt.<br />
 Unter dem Motto "Grüne Welle für Jena" ist aktive Beteiligung und Mitarbeit gefragt. Stressige Verkehrsführungen, Gefahren für Fußgänger und Radfahrer, verwirrende Verkehrsschilder, überflüssige Ampeln nachts oder am Wochenende ... Erfahrungen, Kritik, vor allem aber Vorschläge zur Verbesserung des Verkehrsflusses und zur Minimierung von Risiken sind willkommen.
 
-&bdquo;Die Grüne-Welle-Aktion ist eine Art Modellprojekt, das unseren Stadtoberen demonstrieren soll, wie man auch mit wenig Aufwand und praktisch kostenlos Bürgerbeteiligung umsetzen kann. Dafür ist lediglich der politische Wille notwendig&ldquo;, betont dazu Frank Cebulla, Politischer Geschäftsführer der PIRATEN Jena.
+„Die Grüne-Welle-Aktion ist eine Art Modellprojekt, das unseren Stadtoberen demonstrieren soll, wie man auch mit wenig Aufwand und praktisch kostenlos Bürgerbeteiligung umsetzen kann. Dafür ist lediglich der politische Wille notwendig“, betont dazu Frank Cebulla, Politischer Geschäftsführer der PIRATEN Jena.
 
 Noch bis zum 31. Juli können eigene Vorschläge eingebracht werden. Dazu wurde ein Textpad im Internet eingerichtet, in dem bis zum jetzigen Zeitpunkt schon rund 40 Hinweise eingegangen sind. Man kann auch direkt eine E-Mail an [gruene_welle@piraten-jena.de](mailto:gruene_welle@piraten-jena.de) schreiben.
 

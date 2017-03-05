@@ -22,7 +22,7 @@ SIND WIR BÜRGER GEGEN DEN ÜBERWACHUNGSSTAAT MACHTLOS?
 -----------------------------------------------------
 [![Plakat Kyptoparty Jena]({{ site.baseurl }}/assets/Plakat_Kryptoparty_Jena-212x300.jpg)](/pictures/Plakat_Kryptoparty_Jena.jpg)
 
-Diverse Geheimdienste schnüffeln im Namen der Sicherheit völlig hemmungslos im Privatleben jedes einzelnen Bürgers, und deutschen Politikern fällt dazu nicht mehr ein als: &bdquo;Das geschieht alles durch Rechtsstaaten und hat deshalb schon seine Ordnung&ldquo;.
+Diverse Geheimdienste schnüffeln im Namen der Sicherheit völlig hemmungslos im Privatleben jedes einzelnen Bürgers, und deutschen Politikern fällt dazu nicht mehr ein als: „Das geschieht alles durch Rechtsstaaten und hat deshalb schon seine Ordnung“.
 
 Die Ausspähung und Überwachung von Millionen unbescholtener Bürger ist der größte Skandal in der Nachkriegsgeschichte. Eine neue, allgegenwärtige Staatssicherheit ist nicht nur für Ostdeutsche eine erschreckende Vorstellung.
 
@@ -47,7 +47,7 @@ Mit Vorträgen und praktischen Hilfestellungen zeigen Ihnen Katharina Nocun und 
 
 **19 Uhr Podiumsdiskussion im Café Bohème**
 
-**&bdquo;Ausgespäht, abgehört, abgespeichert - Sind wir Bürger machtlos?&ldquo;**
+**„Ausgespäht, abgehört, abgespeichert - Sind wir Bürger machtlos?“**
 
 mit Katharina Nocun, Politische Geschäftsführerin der Piratenpartei Deutschland
 

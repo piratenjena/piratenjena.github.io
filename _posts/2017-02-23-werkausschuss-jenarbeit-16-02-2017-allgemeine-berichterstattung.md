@@ -33,7 +33,7 @@ Auslastungsquote der Gemeinschaftsunterkünfte liegt bei 95 %; unter den insgesa
 ## 4. Informationen zu neuen Regelungen im Bereich der Pflege #
 Es gibt seit Jahresbeginn einige neue Kriterien zur Einstufung, etwa kognitive und kommunikative Fähigkeiten oder der Umgang mit krankheitsbedingten Belastungen. Darüber werden wir ein wenig zu detailreich aufgeklärt. Mir schwirrt in kürzester Zeit der Kopf. Was das alles für die Stadt bedeutet, bleibt relativ unklar. Übrigens gibt es 4.000 € für Maßnahmen zur Wohnumfeldverbesserungen von der Pflegekasse - auch mehrfach, wenn sich der Gesundheitszustand verschlechtert und weitere Maßnahmen erfordert.<br />
 Daneben lernen wir noch, dass man wegen einer hohen Fluktuation in den Pflegeheimen immer einen Platz findet, wenn man langfristig planen kann. Auf die Schnelle ist es schwierig. Statistisch sterben in April und November die meisten Menschen, im Moment allerdings gibt es eine unplanmäßige Häufung. Für die Heime sind Leute in Pflegegrad 5 lukrativer, weil die Pauschalen höher sind - und Pflege perverserweise zu den Dingen gehört, die sich rechnen müssen.<br />
-Beeindruckend ist der Fachjargon: &bdquo;Vebleiben in der Häuslichkeit&ldquo; etwa heißt nichts anderes als  zu Hause leben.
+Beeindruckend ist der Fachjargon: „Vebleiben in der Häuslichkeit“ etwa heißt nichts anderes als  zu Hause leben.
 
 ## 5. Sonstiges #
 Es gibt noch eine Information über einen neuen Verein, der anonyme Krankenscheine für illegale Flüchtlinge ausreicht und in Jena derzeit eine Unterkunft sucht - eventuell mit MobB e.V. Es scheint daran zu scheitern, dass die Rettungsleitstelle noch nicht umgezogen ist.

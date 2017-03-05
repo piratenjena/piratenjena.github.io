@@ -19,7 +19,7 @@ author:
   email: post@equinox-net.de
   display_name: frank
 ---
-Seit Beginn der Woche wird für alle sichtbar, dass die PIRATEN Jena sich im Wahlkampf befinden. Bastian Ebert, Vorsitzender des Kreisverbandes, dazu: &bdquo;_Seit Sonntagabend sind wir unterwegs und plakatieren in der Stadt. Unsere Kampagne zeigt aktuelle Themen wie Transparenz, Datenschutz, Privatsphäre und Korruptionsbekämpfung. Darüber hinaus werden die Bürger angesprochen, sich über Bildung, Fracking oder auch Drogenpolitik Gedanken zu machen._&ldquo;
+Seit Beginn der Woche wird für alle sichtbar, dass die PIRATEN Jena sich im Wahlkampf befinden. Bastian Ebert, Vorsitzender des Kreisverbandes, dazu: „_Seit Sonntagabend sind wir unterwegs und plakatieren in der Stadt. Unsere Kampagne zeigt aktuelle Themen wie Transparenz, Datenschutz, Privatsphäre und Korruptionsbekämpfung. Darüber hinaus werden die Bürger angesprochen, sich über Bildung, Fracking oder auch Drogenpolitik Gedanken zu machen._“
 
 [![plakatiern]({{ site.baseurl }}/assets/plakatieren1-223x300.jpg)](/pictures/plakatieren1.jpg)
 
@@ -29,4 +29,4 @@ Am 28. August werden die Piraten angesichts der lückenlosen Überwachung durch
 
 Wer mehr über die politischen Ziele der Piraten wissen möchte, hat am 6. September bei einem großen Piratenstammtisch in der Kneipe Quergasse 1 die Gelegenheit, mit ihnen ins Gespräch zu kommen.
 
-&bdquo;_Einer unserer Wahlslogans lautet: Stellen Sie sich vor, Sie werden gefragt! In diesem Sinne freuen wir uns über jeden Bürger, der mit uns ins Gespräch kommen möchte_&ldquo;, so Bastian Ebert.
+„_Einer unserer Wahlslogans lautet: Stellen Sie sich vor, Sie werden gefragt! In diesem Sinne freuen wir uns über jeden Bürger, der mit uns ins Gespräch kommen möchte_“, so Bastian Ebert.
