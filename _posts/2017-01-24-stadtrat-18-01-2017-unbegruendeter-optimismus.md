@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stadtrat 18.01.2018: Unbegründeter Optimismus'
+title: 'Stadtrat 18.01.2017: Unbegründeter Optimismus'
 date: 2017-01-24 21:20:00.000000000 +01:00
 type: post
 published: true
@@ -113,31 +113,29 @@ Der Oberbürgermeister verkündet noch, es sei angekündigt worden, dass der Fin
 ÄA Taeger (Haushalt nur für ein Jahr, Einbeziehung der laufenden Ausgaben in die Konsolidierung) - da sind nur FDP und wir dafür. Ich finde zwar den einjährigen Haushalt falsch, aber das mit den laufenden Ausgaben ausgesprochen richtig.<br />
 
 ÄA Piraten 
-
-1 (Deckelung der Öffentlichkeitsarbeit): FDP und wir dafür
-2 (keine neue 0.75 Stelle für Städtepartnerschaften und Europaangelegenheiten): FDP,  wir und einige Linke dafür
-3  (Verschiebung der Neugestaltung im Drackendorfer Park): da sind wir allein
-4 (Verschiebung der Neugestaltung des Saaleweges Jenaische Weiden): BfJ und wir dafür
-5 (Kürzung der Aufwandsentschädigung für Stadtrat): wir und einige Linke
-6 (Austritt aus Verbund Napoleonstädte): wir, FDP und einige Linke dafür
-7 (Deckelung der Zuschüsse für Frauenvereine statt 9 % mehr): wir, FDP, BfJ dafür
-8 (kein Geld für European Energy Award): wir, FDP, BfJ und einige Linke dafür
-9 (Austritt aus Metropolregion Mitteldeutschland): wir, FDP, 2 Linke dafür
+1. (Deckelung der Öffentlichkeitsarbeit): FDP und wir dafür
+2. (keine neue 0.75 Stelle für Städtepartnerschaften und Europaangelegenheiten): FDP,  wir und einige Linke dafür
+3.  (Verschiebung der Neugestaltung im Drackendorfer Park): da sind wir allein
+4. (Verschiebung der Neugestaltung des Saaleweges Jenaische Weiden): BfJ und wir dafür
+5. (Kürzung der Aufwandsentschädigung für Stadtrat): wir und einige Linke
+6. (Austritt aus Verbund Napoleonstädte): wir, FDP und einige Linke dafür
+7. (Deckelung der Zuschüsse für Frauenvereine statt 9 % mehr): wir, FDP, BfJ dafür
+8. (kein Geld für European Energy Award): wir, FDP, BfJ und einige Linke dafür
+9. (Austritt aus Metropolregion Mitteldeutschland): wir, FDP, 2 Linke dafür
 
 Jänchen (Kürzung des Zuschusses für Kirchentag): Taeger und ich dafür, mit wenigen Enthaltungen (unter anderem Clemens Beckstein)<br />
 
 Linke 
-
-1 (kostenlose Schülerbeförderung): wir und Linke dafür
-2 (Start Planung Schwimmhalle): Linke, BfJ, wir dafür
-3 (Wiedereinführung Frauennachttaxi): Clemens Beckstein und Linke dafür, einzige Enthaltung von mir [vielleicht weil ich auch nach dem Stadtrat noch mit dem Fahrrad nach Hause fahre?]
-4 (zusätzliche ermäßigte 4erkarten für Nahverkehr für Bedürftige): Linke und wir dafür
-5 (Studie zu sozialem Wohnen): Linke und ich dafür [weil ich das Thema wichtig finde, nicht so sehr wegen der Studie], Clemens Beckstein enthalten
-6 (kostenloses Amtsblatt): nur die Linke dafür, Clemens Beckstein dagegen, ich enthalten
-7 (Lüftung Schillerschule): die Linke und Clemens Beckstein dafür, ich enthalten (aus Mangel an Informationen - wozu brauchen die das?)
-8 (keine Ausgleichsabgabe für Behindertenarbeit einplanen): beide enthalten (weil es nicht so einfach ist, den richtigen Behinderten für eine Stellen zu finden, selbst wenn man will)
-9 (Entschuldung strecken): nur Linke dafür
-10 (Ermöglichung von Krediten für Infrastrukturinvest): Linke dafür, wir beide enthalten
+1. (kostenlose Schülerbeförderung): wir und Linke dafür
+2. (Start Planung Schwimmhalle): Linke, BfJ, wir dafür
+3. (Wiedereinführung Frauennachttaxi): Clemens Beckstein und Linke dafür, einzige Enthaltung von mir [vielleicht weil ich auch nach dem Stadtrat noch mit dem Fahrrad nach Hause fahre?]
+4. (zusätzliche ermäßigte 4erkarten für Nahverkehr für Bedürftige): Linke und wir dafür
+5. (Studie zu sozialem Wohnen): Linke und ich dafür [weil ich das Thema wichtig finde, nicht so sehr wegen der Studie], Clemens Beckstein enthalten
+6. (kostenloses Amtsblatt): nur die Linke dafür, Clemens Beckstein dagegen, ich enthalten
+7. (Lüftung Schillerschule): die Linke und Clemens Beckstein dafür, ich enthalten (aus Mangel an Informationen - wozu brauchen die das?)
+8. (keine Ausgleichsabgabe für Behindertenarbeit einplanen): beide enthalten (weil es nicht so einfach ist, den richtigen Behinderten für eine Stellen zu finden, selbst wenn man will)
+9. (Entschuldung strecken): nur Linke dafür
+10. (Ermöglichung von Krediten für Infrastrukturinvest): Linke dafür, wir beide enthalten
 
 BV: 25/9/6 - Gegenstimmen gibt es von uns, der FDP und einem Teil der Linken. Nur Katharina König ist bei denen ausdrücklich dafür.
 
